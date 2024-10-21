@@ -4,20 +4,26 @@ This project is a fully interactive rating system designed for use in product re
 
 **Features:**
       * Interactive star rating with hover and click effects.
+      
       * Customizable rating scale (e.g., 1-5 stars, 1-10 points).
+      
       * Real-time feedback message upon rating submission.
+      
       * Fully responsive design for mobile and desktop users.
 
 
 **Technologies Used**
         * HTML5 for the structure of the rating component.
+        
         * CSS3 for styling, including hover effects and responsive design.
+        
         * JavaScript (ES6+) for interactive functionality and event handling.
 
 features
 
 **Real-time Interactivity:**
          * Users can hover over stars to see them change color, providing immediate feedback.
+         
          * Click to submit the rating, which locks the selection and displays a confirmation message.
 
 **Customizable Rating Scale:**
