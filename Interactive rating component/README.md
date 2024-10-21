@@ -15,6 +15,7 @@ This project is a fully interactive rating system designed for use in product re
         * JavaScript (ES6+) for interactive functionality and event handling.
 
 features
+
 **Real-time Interactivity:**
          * Users can hover over stars to see them change color, providing immediate feedback.
          * Click to submit the rating, which locks the selection and displays a confirmation message.
